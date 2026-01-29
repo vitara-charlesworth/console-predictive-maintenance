@@ -1,0 +1,6 @@
+# DATA
+data/
+
+# ENVIRONMENT
+venv/
+.env
